@@ -1,3 +1,5 @@
-# docs
+# kaiden.gg docs
 
-test 2
+Nothing here.
+
+[Go to the wiki!](wiki)
