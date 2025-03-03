@@ -2,4 +2,4 @@
 
 Nothing here.
 
-[Go to the wiki!](wiki)
+[Go to the wiki!](/Kaiden-gg/docs/wiki)
